@@ -13,4 +13,8 @@ You need a couple of things things to run it yourself:
 2. A telegram bot token (get it from the [BotFather]([url](https://telegram.me/BotFather)))
 3. The ID of the group chat you want to add it to ([example]([url](https://www.wikihow.com/Know-Chat-ID-on-Telegram-on-Android)https://www.wikihow.com/Know-Chat-ID-on-Telegram-on-Android))
 
-Add these to a `config.json` file with a similar structure as the `config_example.json` file included in this repository. The `bot.py` script will load it and use it.
+Add the bot token and group chat ID to a `config.json` file with a similar structure as the `config_example.json` file included in this repository. The `bot.py` script will load it and use it.
+
+Tell python to run `bot.py` and it should work! Happy outage tracking!
+
+
