@@ -5,7 +5,8 @@ This is a simple Telegram bot that you can add to a group chat.
 Whenever your internet connection fails, it will notice and start counting. 
 When the outage ends, it will send an automated message telling you that your connection is back, and how long the outage lasted:
 
-![image](https://github.com/MartijnWitjes/outage_bot/assets/99734480/81aeb20d-0860-4155-b638-c6e3429c66c8)
+![image](https://github.com/MartijnWitjes/outage_bot/assets/99734480/97d561ca-a71b-4452-862b-65b95c96b9f4)
+
 
 ## Requirements
 You need a couple of things things to run it yourself:
