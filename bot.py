@@ -21,7 +21,6 @@ Put this in a config.json file that follows the structure of the config_example.
 class Config:
     telegram_bot_token: str
     telegram_group_chat_id: str
-    asdf: str
     ping_timeout_seconds: int = 20
     ping_ip: str = '8.8.8.8'
 
